@@ -20,5 +20,5 @@ App is based on **MVVM** architecture and all UI is done programatically to avoi
 
 ## Screenshots
 <p align="center">
-  <img src = "https://user-images.githubusercontent.com/71823674/228532724-fe54890c-4f88-4e20-aef6-2a3d3b309224.png" width="200"/>
+  <img src = "https://user-images.githubusercontent.com/71823674/228534047-6b32341f-83c2-47c1-a992-230bcb72ced4.png" width="200"/>
 </p>
