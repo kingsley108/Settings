@@ -82,9 +82,6 @@ class SettingsController: UIViewController {
     
     fileprivate func bindTableView() {
         viewModel.sectionModels.drive(settingsTableView.rx.items(dataSource: mainDataSource)).disposed(by: bag)
-        viewModel.sectionModels.drive(settingsTableView.rx.items) { (tableView: UITableView, index: Int, element: SettingsSectionModel) in
-            
-        }
     }
 
 }
