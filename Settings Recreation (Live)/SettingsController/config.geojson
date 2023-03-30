@@ -1,0 +1,115 @@
+[
+    {
+        "title": "Connectivity",
+        "sections": [
+            {
+                "attributes": {
+                    "settingTitle": "Airplane Mode",
+                    "iconName": "airplane",
+                    "color": "1 0.584314 0 1",
+                    "isOn": true,
+                    "type": "switchCell"
+                }
+            },
+            {
+                "attributes": {
+                    "settingTitle": "Bluetooth",
+                    "iconName": "phone.connection",
+                    "color": "0 0.478431 1 1",
+                    "type": "staticCell"
+                }
+            },
+            {
+                "attributes": {
+                    "settingTitle": "Mobile Data",
+                    "iconName": "antenna.radiowaves.left.and.right",
+                    "color": "0.203922 0.780392 0.34902 1",
+                    "type": "staticCell"
+                }
+            },
+            {
+                "attributes": {
+                    "settingTitle": "Persornal Hotspot",
+                    "iconName": "personalhotspot",
+                    "color": "0.203922 0.780392 0.34902 1",
+                    "type": "staticCell"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Notifications",
+        "sections": [
+            {
+                "attributes": {
+                    "settingTitle": "Notifications",
+                    "iconName": "app.badge",
+                    "color": "1 0.231373 0.188235 1",
+                    "type": "switchCell"
+                }
+            },
+            {
+                "attributes": {
+                    "settingTitle": "Sounds & Haptics",
+                    "iconName": "speaker.wave.2",
+                    "color": "1 0.176471 0.333333 1",
+                    "type": "staticCell"
+                }
+            },
+            {
+                "attributes": {
+                    "settingTitle": "Do Not Disturb",
+                    "iconName": "moon",
+                    "color": "0.686275 0.321569 0.870588 1",
+                    "type": "staticCell"
+                }
+            },
+            {
+                "attributes": {
+                    "settingTitle": "Screen Time",
+                    "iconName": "hourglass.tophalf.fill",
+                    "color": "0.686275 0.321569 0.870588 1",
+                    "type": "staticCell"
+                }
+            }
+        ]
+    },
+    {
+        "title": "General",
+        "sections": [
+            {
+                "attributes": {
+                    "settingTitle": "General",
+                    "iconName": "gear",
+                    "color": "0.556863 0.556863 0.576471 1",
+                    "type": "switchCell"
+                }
+            },
+            {
+                "attributes": {
+                    "settingTitle": "Control Center",
+                    "iconName": "switch.2",
+                    "color": "0.556863 0.556863 0.576471 1",
+                    "type": "staticCell"
+                }
+            },
+            {
+                "attributes": {
+                    "settingTitle": "Display & Brightness",
+                    "iconName": "textformat.size",
+                    "color": "0 0.478431 1 1",
+                    "type": "staticCell"
+                }
+            },
+            {
+                "attributes": {
+                    "settingTitle": "Home Screen",
+                    "iconName": "house.fill",
+                    "color": "0 0 1 1",
+                    "type": "staticCell"
+                }
+            }
+        ]
+    }
+    
+]

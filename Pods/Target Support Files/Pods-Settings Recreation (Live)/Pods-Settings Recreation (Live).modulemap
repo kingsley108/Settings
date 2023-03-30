@@ -1,0 +1,6 @@
+framework module Pods_Settings_Recreation__Live_ {
+  umbrella header "Pods-Settings Recreation (Live)-umbrella.h"
+
+  export *
+  module * { export * }
+}
